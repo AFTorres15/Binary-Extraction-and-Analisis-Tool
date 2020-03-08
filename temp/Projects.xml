@@ -1,0 +1,78 @@
+<projects>
+  <project>
+    <name>Server/Client 2</name>
+    <description>Test path </description>
+    <path>/root/PycharmProjects/BEAT_UI/server.out</path>
+    <attributes>
+      <os>linux</os>
+      <binary>elf</binary>
+      <machine>AMD x86-64 architecture</machine>
+      <clas>ELF64</clas>
+      <bits>64</bits>
+      <language>c++</language>
+      <canary>True</canary>
+      <crypto>False</crypto>
+      <nx>True</nx>
+      <pic>False</pic>
+      <relocs>True</relocs>
+      <stripped>False</stripped>
+    </attributes>
+  </project>
+  <project>
+    <name>/usr/bin/ping</name>
+    <description>testing ping</description>
+    <path>/usr/bin/ping</path>
+    <attributes>
+      <os>linux</os>
+      <binary>elf</binary>
+      <machine>AMD x86-64 architecture</machine>
+      <clas>ELF64</clas>
+      <bits>64</bits>
+      <language>c</language>
+      <canary>True</canary>
+      <crypto>False</crypto>
+      <nx>True</nx>
+      <pic>True</pic>
+      <relocs>False</relocs>
+      <stripped>True</stripped>
+    </attributes>
+  </project>
+  <project>
+    <name>server.out</name>
+    <description>Test server and client communication.</description>
+    <path>/root/PycharmProjects/BEAT_UI/server.out</path>
+    <attributes>
+      <os>linux</os>
+      <binary>elf</binary>
+      <machine>AMD x86-64 architecture</machine>
+      <clas>ELF64</clas>
+      <bits>64</bits>
+      <language>c++</language>
+      <canary>True</canary>
+      <crypto>False</crypto>
+      <nx>True</nx>
+      <pic>False</pic>
+      <relocs>True</relocs>
+      <stripped>False</stripped>
+    </attributes>
+  </project>
+  <project>
+    <name>PingTest</name>
+    <description/>
+    <path>/root/Documents/BEAT_UI/pingTest</path>
+    <attributes>
+      <os>linux</os>
+      <binary>elf</binary>
+      <machine>AMD x86-64 architecture</machine>
+      <clas>ELF64</clas>
+      <bits>64</bits>
+      <language>c</language>
+      <canary>False</canary>
+      <crypto>False</crypto>
+      <nx>True</nx>
+      <pic>True</pic>
+      <relocs>True</relocs>
+      <stripped>False</stripped>
+    </attributes>
+  </project>
+</projects>

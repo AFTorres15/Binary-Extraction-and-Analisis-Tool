@@ -1,0 +1,19 @@
+Plugin Documentation
+LMD: 12/4/2019
+By: BEAT Dev?s
+1. Creating New Plugin:
+I. After project has been made and saved. You can start creating Plugins that are going to belong to that project only and saved that way into the database as well.
+II. Click on ?Plugin Name? field and fill in name desired
+III. Click on ?Plugin Description? and fill in desired description
+IV. There is a Points of Interest view that will be showing any POI that we add later on in the process to this plugin. See Points of Interest documentation to make POI for plugins.
+V. Click ?Save? , Plugin should be made and shown in Plugin view on the left side.
+2. Deleting Plugins:
+I. Click once on any made plugin on the Plugin View and Click on ?Delete? button
+II. Plugin will get deleted form that field as well as in the database
+3. Editing old Plugins:
+I. Click once on any made plugin on the Plugin View
+II. Window on the right will showcase plugin information to match the plugin highlighted
+III. You may now click on ?Plugin Name? and edit the name as well as ?Plugin description? and edit that field
+IV. Click on ?Save? button to reflect changes
+
+

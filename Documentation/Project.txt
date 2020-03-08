@@ -1,0 +1,23 @@
+Project Documentation
+LMD: 12/4/2019
+By: BEAT Dev?s
+1. How to Make Project:
+I. Click on ?New? Button
+II. Fill in Project Name Field
+III. Fill in Project Description
+IV. Click on Browse Button and pick a local x86 File. Warning pop will appear if wrong file is chosen
+V. Click Save. Project should be saved and appear on Project View.
+2. How to Delete Project:
+I. Click on desired Project in Project View
+II. Once it is highlighted click on Delete Button.
+III. System will promt you to make sure you wanna delete project
+IV. Click Yes
+3. How Edit A Project Description:
+I. Click on desired Project in Project View
+II. Click on Project Description. Project should allow for it to be edited. Project Name cannot be changed as well as binary file.
+4. How to Load Previous Project:
+I. Double Click on desired Project in Project View
+
+
+
+

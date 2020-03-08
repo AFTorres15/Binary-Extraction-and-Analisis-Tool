@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin>
+        <name maxOccurs = "1">Network</name>
+        <description maxOccurs = "1">Network plugin includes six points of interest</description>
+        <pointOfInterest>
+            <name>Function</name>
+            <attribute>
+                <name>Function Name</name>
+                <value>socket</value>
+            </attribute>
+            <attribute>
+                <name>Parameter Name</name>
+                <value>fd</value>
+            </attribute>
+            <attribute>
+                <name>Parameter Type</name>
+                <value>int</value>
+            </attribute>
+            <attribute>
+                <name>Parameter Name</name>
+                <value>typeZ</value>
+            </attribute>
+            <attribute>
+                <name>Parameter Type</name>
+                <value>int</value>
+            </attribute>
+        </pointOfInterest>
+        <output minOccurs = "1" maxOccurs = "unbounded" default = "True">
+            <name maxOccurs = "1">Script</name>
+            <functionName maxOccurs = "1">GenerateScript</functionName>
+            <functionSource maxOccurs = "1"></functionSource>
+        </output>
+    </plugin>
+    <plugin>
+        <name>Plugin 2</name>
+        <description>Description of Plugin 2</description>
+        <pointOfInterest>
+            <name>Variable</name>
+            <attribute>
+                <name>Variable Name</name>
+                <value>Variable 1</value>
+            </attribute>
+            <attribute>
+                <name>Variable Value</name>
+                <value>5</value>
+            </attribute>
+            <attribute>
+                <name>Variable Type</name>
+                <value>int</value>
+            </attribute>
+            <attribute>
+                <name>Variable Size</name>
+                <value>32</value>
+            </attribute>
+        </pointOfInterest>
+        <pointOfInterest>
+            <name>Variable</name>
+            <attribute>
+                <name>Variable Name</name>
+                <value>Variable 2</value>
+            </attribute>
+        </pointOfInterest>
+        <pointOfInterest>
+            <name>String</name>
+            <attribute>
+                <name>String Name</name>
+                <value>String 1</value>
+            </attribute>
+        </pointOfInterest>
+        <pointOfInterest>
+            <name>String</name>
+            <attribute>
+                <name>String Name</name>
+                <value>String 2</value>
+            </attribute>
+        </pointOfInterest>
+        <pointOfInterest>
+            <name>Function</name>
+            <attribute>
+                <name>Function Name</name>
+                <value>Ping</value>
+            </attribute>
+        </pointOfInterest>
+        <output>
+            <name>Python</name>
+            <functionName>GeneratePython</functionName>
+            <functionSource></functionSource>
+        </output>
+        <output>
+            <name>Script</name>
+            <functionName>GenerateScript</functionName>
+            <functionSource></functionSource>
+        </output>
+    </plugin>
+</plugins>

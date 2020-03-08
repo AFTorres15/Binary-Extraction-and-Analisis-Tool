@@ -1,0 +1,27 @@
+Analysis Documentation
+LMD: 12/4/2019
+By: BEAT Dev?s
+1. Selecting Plugins:
+I. Before you can select a plugin in analysis, you need to have at least one Plugin defined already. Go see Plugin Documentation on how to define Plugin before you move to step 2.
+II. Click on ?Plugin? drop down and select from Plugins already defined.
+2. Running Static Analysis:
+I. After selecting Plugin, You can now run Static Analysis on binary by clicking on ?Run? button.
+II. During static analysis the project will turn gray until static is finished to not allow you to make changes till the binary is read
+3. Selecting Points of Interest Type:
+I. After having run Static Analysis, you can select Points of Interest Type by clicking on the POI type drop down.
+II. Choose between ?Functions?, ?String? and ?All? which is the default
+III. POI View will reflect the changes after picking POI type
+4. Running Dynamic Analysis:
+I. After having run static analysis, you will be able to run Dynamic analysis. Static has to successfully finish or else you will not be allowed to run Dynamic.
+II. Click on ?Run? dynamic button
+III. System will show red UI showing that a dynamic run is still running..
+IV. If system needs input at the beginning it will promt the user with a pop up. It will not handle multiple inputs later on though.
+5. Selecting Different Runs:
+I. Click on Runs drop down after having re-ran static analysis run
+II. Currently Runs are attached to different Static runs and the last Dynamic run
+6. Using The Search button:
+I. After running Static Analysis. The system will allow you to search all the POI found during static.
+II. As you fill in key words into the search bar, it will start displaying POI in the POI view that match. If keyword does not match anything in the POI, the system will not display any POI until you clear the field by deleting the keyword.
+
+
+

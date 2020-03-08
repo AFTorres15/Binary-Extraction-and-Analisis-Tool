@@ -1,0 +1,15 @@
+POI Documentation
+LMD: 12/4/2019
+By: BEAT Dev?s
+1. Creating New POI:
+I. Click on ?New? Button
+II. Click on ?Name? field and fill in a string to call the new POI
+III. Select ?Type? and you have the option of filling in type POI
+IV. If you type string in ?Type? the system will use the name of the string as a keyword to extract all POI during static using the strings name. Even if it is not an exact match. You can see this implementation by filling in the string ?a? and running static on a binary.
+V. If you type in ?Function? it will pop up a new Button called ?Add Parameters?
+VI. If you click on ?Add Parameters? it lets you click on Parameter # which will allow you to fill in the parameters name.
+VII. If you click on ?Type? field it will allow you to fill in and you may add another parameter. After you have the amount of parameters needed click on ?Save? button.
+2. Deleting Plugins:
+I. Click once on any POI already created
+II. Click on ?Delete? button, system will not promt user if they are sure so be careful
+

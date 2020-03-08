@@ -1,0 +1,23 @@
+About Beat
+Beat is a reverse engineering ....
+Python:3.7
+MongoDB:
+Radare:
+
+Radare 2 version 3.3.0
+Jinja 2.10
+
+Edit Source Code:
+QtPy:1.9.0
+r2pipe:1.4.2
+docutils==0.15.2
+Jinja2==2.10.3
+json5==0.8.5
+jsonschema==3.0.2
+lxml==4.4.1
+mongoengine==0.18.2
+numpy==1.17.2
+numpydoc==0.9.1
+openpyxl==3.0.0
+pymongo==3.9.0
+QtPy==1.9.0
